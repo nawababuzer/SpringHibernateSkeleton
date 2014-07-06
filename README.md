@@ -7,3 +7,6 @@ DB used is : https://code.google.com/p/northwindextended/downloads/detail?name=N
 Thanks to:
 1. https://github.com/shagstrom/spring-mvc-hibernate-skeleton
 2. http://keyurj.blogspot.sg/2014/01/spring-4-integration-with-hibernate-4.html
+
+
+p.s. : i'm still learning and this may not be full prrof.
